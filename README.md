@@ -21,6 +21,9 @@
 - wide tests usage
 - automation routine operations
 
+## Now I'm studying
+- machine learning: TensorFlow, PyTourch
+
 ## Hobbies
 - fitness
 - swimming
