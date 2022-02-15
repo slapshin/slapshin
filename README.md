@@ -8,8 +8,8 @@
 - languages: python (primary), golang
 - frameworks: Django, Flask, FastAPI, pytest
 - storages: PostgreSQL, MongoDB, ElasticSearch, memcached, redis
-- devops: docker, kubernetes, swarm,
-- monitoring: prometheus, grafana, graylog, sentry, ELK,
+- devops: docker, kubernetes, swarm
+- monitoring: prometheus, grafana, graylog, sentry, ELK
 - web servers: nginx, caddy
 - os: Linux, MacOS
 - IDE: PyCharm, VS Code, vim
