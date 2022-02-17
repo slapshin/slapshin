@@ -1,6 +1,6 @@
 ## Main skills
 - Team Lead
-- Backend web development
+- Backend web development (REST, GraphQL)
 - DevOps
 - Basic linux servers administration
 
