@@ -2,16 +2,16 @@
 - Team Lead
 - Backend web development (REST, GraphQL)
 - DevOps
-- Basic linux servers administration
+- Basic Linux servers administration
 
 ## Technology stack
 - languages: python (primary), golang
 - frameworks: Django, Flask, FastAPI, pytest
-- storages: PostgreSQL, MongoDB, ElasticSearch, memcached, redis
-- devops: docker, kubernetes, swarm
-- monitoring: prometheus, grafana, graylog, sentry, ELK
-- web servers: nginx, caddy
-- os: Linux, MacOS
+- storages: PostgreSQL, MongoDB, ElasticSearch, Memcached, Redis
+- DevOps: Docker, Kubernetes, Docker Swarm
+- monitoring: Prometheus, Grafana, Graylog, Sentry, ELK
+- web servers: Nginx, Caddy
+- OS: Linux, macOS
 - IDE: PyCharm, VS Code, vim
 
 ## Development principles
