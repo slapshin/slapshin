@@ -11,6 +11,7 @@
 - DevOps: Docker, Kubernetes, Docker Swarm
 - monitoring: Prometheus, Grafana, Graylog, Sentry, ELK
 - web servers: Nginx, Caddy
+- profiling: jaeger, cProfile
 - OS: Linux, macOS
 - IDE: PyCharm, VS Code, vim
 
