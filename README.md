@@ -5,15 +5,15 @@
 - Basic Linux servers administration
 
 ## Technology stack
-- languages: python (primary), golang
-- frameworks: Django, Flask, FastAPI, pytest
-- storages: PostgreSQL, MongoDB, ElasticSearch, Memcached, Redis
-- DevOps: Docker, Kubernetes, Docker Swarm
-- monitoring: Prometheus, Grafana, Graylog, Sentry, ELK
-- web servers: Nginx, Caddy
-- profiling: jaeger, cProfile
-- OS: Linux, macOS
-- IDE: PyCharm, VS Code, vim
+- **languages**: python (primary), golang
+- **frameworks**: Django, Flask, FastAPI, pytest
+- **storages**: PostgreSQL, MongoDB, ElasticSearch, Memcached, Redis
+- **DevOps**: Docker, Kubernetes, Docker Swarm
+- **monitoring**: Prometheus, Grafana, Graylog, Sentry, ELK
+- **web servers**: Nginx, Caddy
+- **profiling**: jaeger, cProfile
+- **OS**: Linux, macOS
+- **IDE**: PyCharm, VS Code, vim
 
 ## Development principles
 - using linters for basic checks, code formatters: unification team development process
