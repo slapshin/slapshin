@@ -17,8 +17,8 @@
 - **IDE**: PyCharm, VS Code, vim
 
 ## Development principles
-- using linters for basic checks, code formatters: unification team development process
-- the code is read more often than it is written, so it should be easy to read
+- using linters for basic checks, code formatters -> unification team development process
+- the code is read more often than it is written -> it should be easy to read
 - extensible architecture, which has the potential for further changes, BUT no overengineering
 - wide tests usage
 - automation routine operations
