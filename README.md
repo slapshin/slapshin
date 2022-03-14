@@ -7,7 +7,7 @@
 ## Technology stack
 - **languages**: [python](https://www.python.org) (primary), [golang](https://go.dev)
 - **frameworks**: [Django](https://www.djangoproject.com), [Flask](https://flask.palletsprojects.com), [FastAPI](https://fastapi.tiangolo.com), [pytest](https://docs.pytest.org)
-- **storages**: PostgreSQL, MongoDB, ElasticSearch, Memcached, Redis
+- **storages**: [PostgreSQL](https://www.postgresql.org), [MongoDB](https://www.mongodb.com), ElasticSearch, Memcached, Redis
 - **DevOps**: Docker, Kubernetes, Helm, Docker Swarm
 - **CI/CD**: GitLab CI, GitHub Actions
 - **monitoring**: Prometheus, Grafana, Graylog, Sentry, ELK
