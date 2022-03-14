@@ -5,8 +5,8 @@
 - Basic Linux servers administration
 
 ## Technology stack
-- **languages**: python (primary), golang
-- **frameworks**: Django, Flask, FastAPI, pytest
+- **languages**: [python](https://www.python.org) (primary), [golang](https://go.dev)
+- **frameworks**: [Django](https://www.djangoproject.com), [Flask](https://flask.palletsprojects.com), [FastAPI](https://fastapi.tiangolo.com), [pytest](https://docs.pytest.org)
 - **storages**: PostgreSQL, MongoDB, ElasticSearch, Memcached, Redis
 - **DevOps**: Docker, Kubernetes, Helm, Docker Swarm
 - **CI/CD**: GitLab CI, GitHub Actions
