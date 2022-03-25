@@ -1,5 +1,3 @@
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=slapshin&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Main skills
 - Team Lead
 - Backend web development (REST, GraphQL), microservices
@@ -35,3 +33,5 @@
 - books
 - guitar
 - smart home (home assistant)
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=slapshin&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
