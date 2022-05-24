@@ -23,9 +23,6 @@
 - wide tests usage
 - automation routine operations
 
-## Now I'm studying
-- machine learning: [TensorFlow](https://www.tensorflow.org)
-
 ## Hobbies
 - fitness
 - swimming
