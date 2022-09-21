@@ -7,7 +7,7 @@
 ## Technology stack
 - **languages**: [python](https://www.python.org) (primary), [golang](https://go.dev)
 - **frameworks**: [Django](https://www.djangoproject.com), [Flask](https://flask.palletsprojects.com), [FastAPI](https://fastapi.tiangolo.com), [pytest](https://docs.pytest.org)
-- **storages**: [PostgreSQL](https://www.postgresql.org), [MongoDB](https://www.mongodb.com), [ElasticSearch](https://www.elastic.co/elasticsearch/), [Memcached](https://memcached.org), [Redis](https://redis.io), [Clickhouse](https://clickhouse.com)
+- **storages**: [PostgreSQL](https://www.postgresql.org), [MongoDB](https://www.mongodb.com), [ElasticSearch](https://www.elastic.co/elasticsearch/), [Memcached](https://memcached.org), [Redis](https://redis.io), [ClickHouse](https://clickhouse.com)
 - **DevOps**: [Docker](https://www.docker.com), [Kubernetes](https://kubernetes.io), [Helm](https://helm.sh), [Docker Swarm](https://docs.docker.com/engine/swarm/)
 - **CI/CD**: [GitLab CI](https://docs.gitlab.com/ee/ci/), [GitHub Actions](https://github.com/features/actions)
 - **monitoring**: [Prometheus](https://prometheus.io), [Grafana](https://grafana.com), [Graylog](https://www.graylog.org), [Sentry](https://sentry.io), [ELK](https://www.elastic.co/what-is/elk-stack)
