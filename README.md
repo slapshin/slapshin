@@ -12,7 +12,8 @@
 - **CI/CD**: [GitLab CI](https://docs.gitlab.com/ee/ci/), [GitHub Actions](https://github.com/features/actions)
 - **monitoring**: [Prometheus](https://prometheus.io), [Grafana](https://grafana.com), [Graylog](https://www.graylog.org), [Sentry](https://sentry.io), [ELK](https://www.elastic.co/what-is/elk-stack)
 - **web servers**: [Nginx](https://www.nginx.com), [Caddy](https://caddyserver.com)
-- **profiling**: [Jaeger](https://www.jaegertracing.io), [cProfile](https://docs.python.org/3/library/profile.html)
+- **profiling**: [cProfile](https://docs.python.org/3/library/profile.html)
+- **tracing**: [Jaeger](https://www.jaegertracing.io)
 - **OS**: Linux, macOS
 - **IDE**: [PyCharm](https://www.jetbrains.com/pycharm/), [VS Code](https://code.visualstudio.com), [vim](https://www.vim.org)
 
