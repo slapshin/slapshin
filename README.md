@@ -5,7 +5,7 @@
 - Basic Linux servers administration
 
 ## Technology stack
-- **languages**: [python](https://www.python.org) (primary), [golang](https://go.dev)
+- **languages**: [python](https://www.python.org), [golang](https://go.dev)
 - **frameworks**: [Django](https://www.djangoproject.com), [Flask](https://flask.palletsprojects.com), [FastAPI](https://fastapi.tiangolo.com), [pytest](https://docs.pytest.org)
 - **storages**: [PostgreSQL](https://www.postgresql.org), [MongoDB](https://www.mongodb.com), [ElasticSearch](https://www.elastic.co/elasticsearch/), [Memcached](https://memcached.org), [Redis](https://redis.io), [ClickHouse](https://clickhouse.com)
 - **DevOps**: [Docker](https://www.docker.com), [Kubernetes](https://kubernetes.io), [Helm](https://helm.sh), [Docker Swarm](https://docs.docker.com/engine/swarm/)
