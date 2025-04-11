@@ -1,17 +1,18 @@
 ## Main skills
 - Team Lead
-- Backend web development (REST, GraphQL), microservices
+- Backend development, microservices
+- DBA
 - DevOps
-- Basic Linux servers administration
+- Linux servers administration
 
 ## Technology stack
 - **languages**: [python](https://www.python.org), [golang](https://go.dev)
 - **frameworks**: [Django](https://www.djangoproject.com), [Flask](https://flask.palletsprojects.com), [FastAPI](https://fastapi.tiangolo.com), [pytest](https://docs.pytest.org)
 - **storages**: [PostgreSQL](https://www.postgresql.org), [MongoDB](https://www.mongodb.com), [ElasticSearch](https://www.elastic.co/elasticsearch/), [Memcached](https://memcached.org), [Redis](https://redis.io), [ClickHouse](https://clickhouse.com)
-- **DevOps**: [Docker](https://www.docker.com), [Kubernetes](https://kubernetes.io), [Helm](https://helm.sh), [Docker Swarm](https://docs.docker.com/engine/swarm/)
+- **DevOps**: [Docker](https://www.docker.com), [Kubernetes](https://kubernetes.io), [Helm](https://helm.sh), [Docker Swarm](https://docs.docker.com/engine/swarm/), Traefik [https://traefik.io/traefik/]
 - **CI/CD**: [GitLab CI](https://docs.gitlab.com/ee/ci/), [GitHub Actions](https://github.com/features/actions)
 - **monitoring**: [Prometheus](https://prometheus.io), [Grafana](https://grafana.com), [Graylog](https://www.graylog.org), [Sentry](https://sentry.io), [ELK](https://www.elastic.co/what-is/elk-stack)
-- **web servers**: [Nginx](https://www.nginx.com), [Caddy](https://caddyserver.com)
+- **web servers**: [Nginx](https://www.nginx.com), [Caddy](https://caddyserver.com), 
 - **profiling**: [cProfile](https://docs.python.org/3/library/profile.html)
 - **tracing**: [Jaeger](https://www.jaegertracing.io)
 - **OS**: Linux, macOS
